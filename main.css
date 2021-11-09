@@ -1,0 +1,265 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Raleway", sans-serif;
+    box-sizing: border-box;
+}
+.back{
+    background-image:url(./home-bg.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.devel{
+    font-size:40px;
+    font-weight: bold;
+    color: white;
+    padding-top:270px ;
+    padding-left: 120px;
+}
+.desig{
+    font-size:18px;
+    font-weight:500;
+    color: white;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.gah{
+    color: white;
+    font-size: 16px;
+    padding-left:10px;
+}
+.icon{
+    margin-left: 110px;
+    margin-top:20px;
+}
+
+.karopka{
+    border:20px solid #b8a07e;
+    width: 330px;
+    height: 420px;
+}
+.cont{
+    margin: 130px 130px;
+    display: flex;
+}
+.karop-img{
+    position: absolute;
+    top: 760px;
+    left: 180px;
+}
+.text{
+    margin-left:150px;
+    width: 500px;
+}
+.text2{
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    color: #999999;
+    margin: 25px 0px;
+}
+.text3{
+    color: #999999;
+}
+.photo{
+    width: 25%;
+    margin: 20px;
+}
+.cal{
+    font-size: 40px;
+    color: #795d36;
+    margin:auto;
+    width: fit-content;
+}
+.pont{
+ margin: 130px 130px;
+ display: flex;
+}
+.GRAP{
+font-weight: bold;
+margin: 10px 0px;
+}
+.TO{
+color: #999999;
+font-size: 13px;
+}
+.my{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.knop{
+    display: flex;
+    width: fit-content;
+    border-radius: 50px;
+    margin:auto;
+    margin-top: 50px;
+}
+.all{
+    margin: 20px;
+    font-weight: bold;
+    color: #999999;
+}
+.all:hover{
+    color: #b8a07e;
+    cursor: pointer;
+}
+.dal{
+    display: flex;
+    margin:0px 130px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.rasm{
+    width: 30%;
+    margin-top: 30px;
+}
+.jour{
+    text-align: center;
+    font-size: 30px;
+    margin: 100px 0px ;
+    font-weight: bold;
+    margin-top: 70px;
+    padding-top: 30px;
+}
+.card{
+width: 30%;
+}
+.glavni{
+   background-color: #f7f7f7;
+}
+.blog{
+    width:100%;
+}
+.post{
+    color: #999999;
+    font-size: 14px;
+    padding-bottom: 50px;
+}
+.post1{
+    font-size: 18px;
+    font-weight:600;
+    margin: 15px 0px;
+    cursor: pointer;
+    width: fit-content;
+}
+.post1:hover{
+    color: #b8a07e;
+}
+.glavni2{
+    margin:0px 130px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.regis{
+    margin: 130px 130px;
+    display: flex;
+}
+.name{
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px;
+}
+.subject{
+    width: 530px;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size:20px;
+}
+.area{
+    width: 530px;
+    margin: 10px;
+    font-size: 20px;
+    padding: 5px;
+}
+.but{
+    width: 530px;
+    font-size: 20px;
+    background-color:#333;
+    color: white;
+    margin: 10px;
+    padding: 5px;
+}
+.form{
+    margin-left:350px;
+}
+.GET{
+    font-family: sans-serif;
+    margin-top: 5px;
+}
+.tag{
+    margin-top: 15px;
+    align-items: center;
+}
+.tag1{
+    margin-top:10px;
+}
+.tag2{
+    text-align: left;
+    width: 230px;
+}
+.icon3{
+    width: fit-content;
+    margin: auto;
+    padding: 70px;
+}
+.gah1{
+    font-size: 25px;
+    margin-left: 20px;
+    color: #999999;
+    margin-bottom: 20px;
+}
+.gah2{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #999999;
+}
+.copy{
+    text-align: center;
+    color: #999999;
+    font-size: 13px;
+}
+.copy1{
+    text-align: center;
+    color: #999999;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.wid{
+    background-color: #f7f7f7;
+}
+.logo{
+    width: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    background-color:#f7f7f7;
+    width: 100vw;
+    z-index:99999;
+}
+.rang2{
+    display: flex;
+    margin-right:100px;
+}
+.hom{
+    margin-left:70px;
+    font-weight:600;
+    color: #999999;
+    cursor: pointer;
+}
+.hom:hover{
+    color: #b8a07e;
+}
+.icon3:hover{
+    cursor: pointer;
+    color: #795d36;
+}
